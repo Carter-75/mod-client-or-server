@@ -18,7 +18,7 @@ import java.util.concurrent.CompletableFuture;
 import java.util.concurrent.CompletionException;
 
 /**
- * Simple Mod Menu screen that sorts installed mods into environment-specific zip bundles.
+ * Mod Menu config screen that sorts installed mods into environment-specific zip bundles.
  */
 public class ModClientOrServerConfigScreen extends Screen {
 

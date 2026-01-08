@@ -25,7 +25,7 @@ import java.util.zip.ZipEntry;
 import java.util.zip.ZipOutputStream;
 
 /**
- * Groups installed mods by declared environment and writes zipped collections for easy sharing.
+ * Groups installed mods by environment and exports each category as a zip archive.
  */
 public final class ModSortUtil {
 
